@@ -33,9 +33,6 @@ VPC, Subnets, Route Tables, Internet Gateway, NAT Gateway, VPC Peering, EC2, ALB
 ### VPCs
 ![VPCs](screenshots/vpcs.png)
 
-### VPC Peering (Active)
-![Peering](screenshots/peering.png)
-
 ### EC2 Instances
 ![EC2](screenshots/ec2-instances.png)
 
